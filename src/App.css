@@ -22,6 +22,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
+  /* Add these lines for the background image */
+  background-image: url('/https://img.freepik.com/free-vector/pharmacy-interior-flat-background-with-visitors-pharmacist-staff-white-coats-consulting-people-vector-illustration_1284-72274.jpg?t=st=1718004366~exp=1718007966~hmac=43044b6761e3c35cad739ffedf84d7405b7a37c27d6141e7a71b3c26246a7478&w=900'/);
+  background-size: cover;
+  background-position: center;
 }
 
 .App-link {
